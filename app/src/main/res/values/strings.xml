@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StomApp</string>
+    <string name="boton_recetas">Recetas</string>
+    <string name="boton_mapa">Mapa</string>
+    <string name="boton_colabora">Colabora</string>
+    <string name="boton_control">Control</string>
+    <string name="boton_contacta">Contacta</string>
+
+</resources>
